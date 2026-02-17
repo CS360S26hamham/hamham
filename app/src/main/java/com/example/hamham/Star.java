@@ -1,4 +1,4 @@
-public class Star {
+public class Star extends Shape {
     int x;
     int y;
    
